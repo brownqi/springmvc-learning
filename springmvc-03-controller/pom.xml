@@ -11,5 +11,13 @@
 
     <artifactId>springmvc-03-controller</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.10</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
